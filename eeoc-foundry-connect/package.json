@@ -1,0 +1,19 @@
+{
+  "name": "eeoc-foundry-connect",
+  "version": "1.2.0",
+  "description": "EEOC Azure AI Foundry Entra connectivity for OMP and OpenAI-compatible AI harnesses",
+  "license": "UNLICENSED",
+  "keywords": [
+    "omp",
+    "ai-harness",
+    "azure",
+    "foundry",
+    "entra",
+    "eeoc"
+  ],
+  "omp": {
+    "extensions": [
+      "./src/main.ts"
+    ]
+  }
+}
